@@ -29,3 +29,5 @@
 14. Дж.Каминге, Е.Карстенфоттир, Е.Мелцер  – What is a Visual Novel?<br>
 
 15. Авдеева Е.Е., Александрова А.Д. – Визуальная новелла<br>
+
+<a href="https://github.com/Warzaria/one/blob/e09c53ddc419fa8fe805245b9fdbb19ac67825ca/README.md"> К содержанию </a>
